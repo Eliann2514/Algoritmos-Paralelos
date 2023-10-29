@@ -1,0 +1,16 @@
+d2 = dict([
+('Nombre', 'sara'),
+('edad', 27),
+('documeno', 1003882),
+
+])
+print(d2)
+
+mi_d1 = {
+'nombre' : 'juan',
+'edad' : 25,
+'cuidad' : 'madrid'
+
+
+}
+print(mi_d1.items())
